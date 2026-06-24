@@ -1,0 +1,2 @@
+# MergFS-Efficient-Bridging-of-a-32-bit-High-Speed-ICB-Bus-to-a-64-bit-Low-Speed-AHB-Lite-Bus-
+Designed and verified MergFS, a request-merging ICB-to-AHB-Lite bus bridge for RISC-V SoCs, achieving up to 75% clock-cycle reduction over a non-merging baseline through 32-bit-to-64-bit request merging and frequency-aware buffering. Built a complete SystemVerilog class-based verification environment in Cadence Xcelium validating its functionality.
